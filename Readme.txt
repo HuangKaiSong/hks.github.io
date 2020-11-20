@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+感谢你的访问！
 
-Template Name: Kelvin
-Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+博主名称: hks
+网站: https://hks.github.io
